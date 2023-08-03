@@ -5,7 +5,7 @@
 > so please refer to [it's documentation](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md)
 > for more usage information.
 
-# [_Put your project name here_]
+# Skyscanner Flight Schedule
 
 [_Add a brief description of your project here._]
 
@@ -200,4 +200,3 @@ If this is unsuitable, then you can always run `npm run eject` which copies all 
 **Note: this is a one-way operation - once you eject, you can’t go back!**
 
 Please don't do this if you don't have to - the curated feature set is there to promote standardisation across Skyscanner's front-end stack.
-# skyscanner-flight-schedule
