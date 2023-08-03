@@ -7,7 +7,7 @@
 
 # Skyscanner Flight Schedule
 
-[_Add a brief description of your project here._]
+[_Use Skyscanner’s Backpack React library to build a basic web app._]
 
 ## npm script commands
 

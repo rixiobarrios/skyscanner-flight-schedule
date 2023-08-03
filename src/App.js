@@ -25,12 +25,12 @@ const App = () => (
             </div>
         </header>
         <main className={getClassName('App__main')}>
+            <Calendar />
             <BpkText tagName="p" className={getClassName('App__text')}>
                 To get started, edit <BpkCode>src/App.jsx</BpkCode> and save to
                 reload.
             </BpkText>
             <BpkButton onClick={() => alert('It works!')}>Continue</BpkButton>
-            <Calendar />
         </main>
     </div>
 );
